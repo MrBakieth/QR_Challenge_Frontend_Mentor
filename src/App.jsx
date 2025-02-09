@@ -5,7 +5,7 @@ const App = () => {
     <div className='container'>
       <div className='card'>
         <img 
-          src="/public/anonymous_qr_code.png"
+          src="/anonymous_qr_code.png"
           alt="QR code" 
           className='qr-code' 
         />
